@@ -18,8 +18,9 @@ Analog Clock is a simple web application that displays an analog clock along wit
 
 ## Preview
 
-![1](https://github.com/omkarsalunkheatp1211/Analog/assets/96873232/0926ceee-47b2-4312-bc91-b25a99c64abf)
-![2](https://github.com/omkarsalunkheatp1211/Analog/assets/96873232/abb36903-47b6-4698-9095-00f97d979607)
+![1](https://github.com/omkarsalunkheatp1211/Analog_clock/assets/96873232/f871b40b-c100-4918-9595-185ff034dc07)
+![2](https://github.com/omkarsalunkheatp1211/Analog_clock/assets/96873232/ed618d01-a7f8-43b9-84a6-02d3058c486e)
+
 
 ## Technologies Used
 
