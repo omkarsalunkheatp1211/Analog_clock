@@ -17,6 +17,7 @@ Analog Clock is a simple web application that displays an analog clock along wit
 - Display of the day of the week, date, and year.
 
 ## Preview
+**Live Demo:** [Analog Clock](https://omkarsalunkheatp1211.github.io/Analog/)
 
 ![1](https://github.com/omkarsalunkheatp1211/Analog_clock/assets/96873232/f871b40b-c100-4918-9595-185ff034dc07)
 ![2](https://github.com/omkarsalunkheatp1211/Analog_clock/assets/96873232/ed618d01-a7f8-43b9-84a6-02d3058c486e)
@@ -29,9 +30,6 @@ Analog Clock is a simple web application that displays an analog clock along wit
 - JavaScript
 
 ## Setup 
-https://omkarsalunkheatp1211.github.io/Analog/
-
-OR
 
 Open your terminal or command prompt and Clone the repository to your local machine:
 ```javascript
